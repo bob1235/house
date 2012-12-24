@@ -1,4 +1,4 @@
 Issue tracker for my house
 ==========================
 
-My house has no source code, so I only use the issue tracker.
+My house has source code but I primarily just use the issue tracker.
