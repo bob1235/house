@@ -1,4 +1,5 @@
-Issue tracker for my house
-==========================
+Issue tracker and open source hardware for my house
+===================================================
 
-My house has source code but I primarily just use the issue tracker.
+Catalog of 3D printed parts used to fix up or otherwise enhance my house. Also
+includes issue tracker for things needing handyman attention.
